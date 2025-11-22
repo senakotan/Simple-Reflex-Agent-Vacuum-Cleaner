@@ -1,4 +1,4 @@
-# 🧠 Simple Reflex Vacuum Agent
+# 📌 Simple Reflex Vacuum Agent
 
 This project implements a **Simple Reflex AI Agent** that controls a vacuum-cleaning robot operating in a two-room environment.  
 The agent perceives the environment, takes actions based on simple rules, and reacts to dynamic changes such as rooms becoming dirty again over time.
@@ -19,7 +19,7 @@ The agent perceives the environment, takes actions based on simple rules, and re
 
 ---
 
-## 🧩 AI Agent Type
+## 🧠  AI Agent Type
 
 This project demonstrates a **Simple Reflex Agent**, one of the fundamental agent types in AI:
 
