@@ -43,5 +43,5 @@ This project demonstrates a **Simple Reflex Agent**, one of the fundamental agen
 ## ▶️ Run the Simulation
 
 ```bash
-python vacuum_agent.py
+python reflex-agent-simulator.py
 
